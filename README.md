@@ -1,1 +1,1 @@
- # Sorting Algorithms for Begginers
+# Sorting algorithms for inter arrays
